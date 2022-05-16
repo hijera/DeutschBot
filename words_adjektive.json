@@ -1,0 +1,281 @@
+[
+  {
+    "type": "adjektive",
+    "word": "ähnlich",
+    "translation": "похожий"
+  },
+  {
+    "type": "adjektive",
+    "word": "lustig",
+    "translation": "весёлый"
+  },
+  {
+    "type": "adjektive",
+    "word": "bequem",
+    "translation": "удобный"
+  },
+  {
+    "type": "adjektive",
+    "word": "ehrlich",
+    "translation": "честный"
+  },
+  {
+    "type": "adjektive",
+    "word": "originell",
+    "translation": "оригинальный"
+  },
+  {
+    "type": "adjektive",
+    "word": "kaputt",
+    "translation": "поломанный"
+  },
+  {
+    "type": "adjektive",
+    "word": "praktisch",
+    "translation": "удобный"
+  },
+  {
+    "type": "adjektive",
+    "word": "leer",
+    "translation": "пустой"
+  },
+  {
+    "word": "alt",
+    "type": "adjektive",
+    "translation": "старый"
+  },
+  {
+    "word": "berufstätig",
+    "type": "adjektive",
+    "translation": "работающий по специальности, занятый на работе"
+  },
+  {
+    "word": "frei",
+    "type": "adjektive",
+    "translation": "свободный"
+  },
+  {
+    "word": "geschieden",
+    "type": "adjektive",
+    "translation": "разведённый"
+  },
+  {
+    "word": "gut",
+    "type": "adjektive",
+    "translation": "хороший"
+  },
+  {
+    "word": "klein",
+    "type": "adjektive",
+    "translation": "маленький"
+  },
+  {
+    "word": "ledig",
+    "type": "adjektive",
+    "translation": "холостой (не женат), не замужем"
+  },
+  {
+    "word": "neu",
+    "type": "adjektive",
+    "translation": "новый"
+  },
+  {
+    "word": "verheiratet",
+    "type": "adjektive",
+    "translation": "женат, замужем"
+  },
+  {
+    "word": "alt",
+    "type": "adjektive",
+    "translation": "старый"
+  },
+  {
+    "word": "geöffnet",
+    "type": "adjektive",
+    "translation": "открытый"
+  },
+  {
+    "word": "geschlossen",
+    "type": "adjektive",
+    "translation": "закрытый"
+  },
+  {
+    "word": "herrlich",
+    "type": "adjektive",
+    "translation": "прекрасный"
+  },
+  {
+    "word": "leise",
+    "type": "adjektive",
+    "translation": "тихий"
+  },
+  {
+    "word": "nächst-",
+    "type": "adjektive",
+    "translation": "следующий"
+  },
+  {
+    "word": "nett",
+    "type": "adjektive",
+    "translation": [
+      "милый",
+      "симпатичный",
+      "обходительный"
+    ]
+  },
+  {
+    "word": "obligatorisch",
+    "type": "adjektive",
+    "translation": "обязательный"
+  },
+  {
+    "word": "spät",
+    "type": "adjektive",
+    "translation": "поздний"
+  },
+  {
+    "word": "verboten",
+    "type": "adjektive",
+    "translation": "запрещенный"
+  },
+  {
+    "type": "adjektive",
+    "word": "billig",
+    "translation": "дешёвый"
+  },
+  {
+    "type": "adjektive",
+    "word": "normal",
+    "translation": "нормальный"
+  },
+  {
+    "type": "adjektive",
+    "word": "bitter",
+    "translation": "горький"
+  },
+  {
+    "type": "adjektive",
+    "word": "fantastisch",
+    "translation": "фантастический"
+  },
+  {
+    "type": "adjektive",
+    "word": "dunkel",
+    "translation": "тёмный"
+  },
+  {
+    "type": "adjektive",
+    "word": "rot",
+    "translation": "красный"
+  },
+  {
+    "type": "adjektive",
+    "word": "eng",
+    "translation": "узкий, тесный"
+  },
+  {
+    "type": "adjektive",
+    "word": "salzig",
+    "translation": "солёный"
+  },
+  {
+    "type": "adjektive",
+    "word": "fett",
+    "translation": "жирный, толстый"
+  },
+  {
+    "type": "adjektive",
+    "word": "satt",
+    "translation": "сытый"
+  },
+  {
+    "type": "adjektive",
+    "word": "frisch",
+    "translation": "свежий"
+  },
+  {
+    "type": "adjektive",
+    "word": "sauer",
+    "translation": "кислый"
+  },
+  {
+    "type": "adjektive",
+    "word": "groß",
+    "translation": "большой"
+  },
+  {
+    "type": "adjektive",
+    "word": "scharf",
+    "translation": "острый"
+  },
+  {
+    "type": "adjektive",
+    "word": "grün",
+    "translation": "зелёный"
+  },
+  {
+    "type": "adjektive",
+    "word": "schlank",
+    "translation": "худой, стройный"
+  },
+  {
+    "type": "adjektive",
+    "word": "hart",
+    "translation": "твёрдый"
+  },
+  {
+    "type": "adjektive",
+    "word": "stark",
+    "translation": "сильный"
+  },
+  {
+    "type": "adjektive",
+    "word": "hell",
+    "translation": "светлый"
+  },
+  {
+    "type": "adjektive",
+    "word": "süß",
+    "translation": "сладкий"
+  },
+  {
+    "type": "adjektive",
+    "word": "hoch",
+    "translation": "высокий"
+  },
+  {
+    "type": "adjektive",
+    "word": "trocken",
+    "translation": "сухой"
+  },
+  {
+    "type": "adjektive",
+    "word": "kalt",
+    "translation": "холодный"
+  },
+  {
+    "type": "adjektive",
+    "word": "typisch",
+    "translation": "типичный"
+  },
+  {
+    "type": "adjektive",
+    "word": "mild",
+    "translation": "нежный, умеренный"
+  },
+  {
+    "type": "adjektive",
+    "word": "warm",
+    "translation": "тёплый"
+  },
+  {
+    "type": "adjektive",
+    "word": "nah",
+    "translation": "близкий"
+  },
+  {
+    "type": "adjektive",
+    "word": "wichtig",
+    "translation": "важный"
+  }
+]

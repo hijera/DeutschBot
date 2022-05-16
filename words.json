@@ -1,0 +1,1117 @@
+[
+  {
+    "type": "nomen",
+    "word": "Alter",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Ausländerin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Ausländer",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Beruf",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Eltern",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Familienname",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Familienstand",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Fotograf",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Frau",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Geburtstag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Hausfrau",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Herr",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Hobby",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Hobbys",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Jahr",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kauffrau",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Kaufmann",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kind",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kinder",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Klavier",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kurs",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Land",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Landwirt",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Leute",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Lösung",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Mechaniker",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Monat",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Monate",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Name",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Ort",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Postkarte",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Postleitzahl",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Reiseleiterin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Reiseleiter",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schülerin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Schüler",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schweiz",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Seite",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Sekretärin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Straße",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Studentin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Student",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Tag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Tage",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Telefon",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Telefonnummer",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Vorname",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Wohnort",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Zahl",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Zahlen",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Antwort",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Auto",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Batterie",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Benzin",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Bett",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Bild",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Fehler",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Fernseh",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Foto",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Geld",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Geschäft",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gruppe",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Handy",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Haus",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Häuser",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Haushalt",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Helm",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Herd",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Idee",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Kamera",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Karte",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Kassette",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Küche",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Küchenschrank",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kugelschreiber",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kühlschrank",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Lampe",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Mikrowelle",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Minute",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Parkuhr",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Person",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Problem",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Programm",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Radio",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Regal",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Schrank",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schuh",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schublade",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Steckdose",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Stecker",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Stuhl",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Taschenlampe",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Taschenrechner",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Tisch",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Topf",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Uhr",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Waschbecken",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Waschmaschine",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Wasserhahn",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Wert",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Wort",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Zeit",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Abendessen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Alkohol",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Anzeige",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Apfel",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Bier",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Bohne",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Brot",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Brötchen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Butter",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Dose",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Ei",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Einkaufszettel",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Eis",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Erdbeere",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Euro",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Export",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Fisch",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Flasche",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Fleisch",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Frage",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Frucht",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Frühstück",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gabel",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Gasthof",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Gemüse",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gericht",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gespräch",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Getränk",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gewürz",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Glas",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Gramm",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Hähnchen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kaffee",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "KartoffeI",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Käse",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kilo",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kiste",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Kotelett",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kuchen",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Limonade",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Liter",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Löffel",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Marmelade",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Mehl",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Messer",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Milch",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Mineralwasser",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Nachtisch",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Öl",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Packung",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Pfeffer",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Pfund",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Preis",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Reis",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Rotwein",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Saft",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Sahne",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Salat",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schinken",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schnaps",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Schokolade",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Soße",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Speisekarte",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Steak",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Suppe",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Tasse",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Tee",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Teller",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Tomate",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Vorspeise",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Wäsche",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Weißwein",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Wurst",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Zettel",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Zucker",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Zwiebel",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Abend",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Ansichtskarte",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Arbeit",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Ausflug",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Bäcker",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Bank",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Bar",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Bibliothek",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Buch",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Cafe",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Diskothek",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Donnerstag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Dusche",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Eintritt",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Essen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Fernsehen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Fieber",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Film",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Freitag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Freizeit",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Friseurin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Friseur",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Gast",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Gruß",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Juli",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kellnerin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Kellner",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Kino",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kleid",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Konzert",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Krankenhaus",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Kranken",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Lehrerin",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Lehrer",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Mannschaft",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Maschine",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Meer",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Mensch",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Mittag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Mittagessen",
+    "sex": "n"
+  },
+  {
+    "type": "nomen",
+    "word": "Mittwoch",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Montag",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Musik",
+    "sex": "f"
+  },
+  {
+    "type": "nomen",
+    "word": "Passagier",
+    "sex": "m"
+  },
+  {
+    "type": "nomen",
+    "word": "Pause",
+    "sex": "f"
+  }
+]
